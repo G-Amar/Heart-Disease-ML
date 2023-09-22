@@ -21,3 +21,8 @@ Attribute Information:
 11. the slope of the peak exercise ST segment
 12. number of major vessels (0-3) colored by flourosopy
 13. thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
+
+
+## Results
+Comparing all the models, the model with the best performance was the Support Vector Classifier with a Linear kernel. This model achieved an overall accuracy of 91.7% (and average precision 0.92 and average recall 0.92).
+The Decision Tree with Gini and max depth of 3 also performed quite well, with an overall accuracy of 85%.
