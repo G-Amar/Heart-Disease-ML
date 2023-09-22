@@ -26,3 +26,7 @@ Attribute Information:
 ## Results
 Comparing all the models, the model with the best performance was the Support Vector Classifier with a Linear kernel. This model achieved an overall accuracy of 91.7% (and average precision 0.92 and average recall 0.92).
 The Decision Tree with Gini and max depth of 3 also performed quite well, with an overall accuracy of 85%.
+
+## Next Steps
+Try out some other ML models and see if they perform even better.
+Potentially integrate these models into a web application so that people can plug in their own values and see what the model predicts.
